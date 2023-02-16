@@ -72,6 +72,14 @@ class Home extends Component {
             <p>Move</p>
             <p>this</p>
             <p>DIV</p>
+            <p>DIV</p>
+            <p>DIV</p>
+            <p>DIV</p>
+            <p>DIV</p>
+            <p>DIV</p>
+            <p>DIV</p>
+            <p>DIV</p>
+            <p>DIV</p>
           </div>
 
         </div>
